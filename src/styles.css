@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+.toast {
+  background-color: #c9e5ef;
+  border-radius: 6px;
+  width: 550px;
+  z-index: 1000;
+}
+.toast-body {
+  color: #38CFF0;
+  margin: 500px;
+}
+.nav-link {
+  font-weight: 500;
+  font-size: 20px;
+}
